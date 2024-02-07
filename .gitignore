@@ -35,7 +35,7 @@ terraform.rc
 
 # Additional files not to be pushed to GitHub
 
-security-group.tf
+
 key-pair.tf
 asg.tf
 alb.tf
