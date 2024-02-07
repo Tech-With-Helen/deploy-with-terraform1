@@ -34,7 +34,7 @@ override.tf.json
 terraform.rc
 
 # Additional files not to be pushed to GitHub
-Nat-GW.tf
+
 security-group.tf
 key-pair.tf
 asg.tf
