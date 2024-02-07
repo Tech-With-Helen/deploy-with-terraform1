@@ -32,3 +32,10 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# Additional files not to be pushed to GitHub
+Nat-GW.tf
+security-group.tf
+key-pair.tf
+asg.tf
+alb.tf
